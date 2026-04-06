@@ -56,6 +56,12 @@ let track_list = [
     artist: "A.R. Rahman",
     image: "images/chikiri.jpg",
     path: "songs/chikiri.mp3"
+  },
+  {
+    name: "Gehra Hua",
+    artist: "Shashwat Sachdev, Arijit Singh",
+    image: "images/gehra.jpg",
+    path: "songs/gehra.mp3"
   }
 
 ];
