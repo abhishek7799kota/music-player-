@@ -50,6 +50,12 @@ let track_list = [
     artist: "Anirudh Ravichander",
     image: "images/aaya.png",
     path: "songs/aaya.mp3"
+  },
+  {
+    name: "Chikiri Chikiri",
+    artist: "A.R. Rahman",
+    image: "images/chikiri.jpg",
+    path: "songs/chikiri.mp3"
   }
 
 ];
