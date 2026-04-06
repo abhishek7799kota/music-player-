@@ -62,6 +62,18 @@ let track_list = [
     artist: "Shashwat Sachdev, Arijit Singh",
     image: "images/gehra.jpg",
     path: "songs/gehra.mp3"
+  },
+  {
+    name: "Evarevaro ",
+    artist: "Vishal Mishra",
+    image: "images/evarevaro.jpg",
+    path: "songs/evarevaro.mp3"
+  },
+  {
+    name: "Teri Mitti",
+    artist: "Manoj Muntashir",
+    image: "images/teri.jpg",
+    path: "songs/teri.mp3"
   }
 
 ];
